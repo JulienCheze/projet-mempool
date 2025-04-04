@@ -1,0 +1,7 @@
+Rapport du 2025-04-04
+Nombre de points : 11
+Frais d'ouverture : 1 sat/vB
+Frais de clôture : 1 sat/vB
+Évolution : 0 %
+Transactions non confirmées - Moyenne : 1676,45
+Transactions non confirmées - Volatilité : 1126,37
